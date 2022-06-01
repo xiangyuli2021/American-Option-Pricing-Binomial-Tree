@@ -5,4 +5,4 @@ American Option Pricing
 
 •	Implemented the binomial tree model in Python to value an American put option and generated the optimal exercise boundary as a function of time
 
-•	Used Monte Carlo simulation to obtain a kernel density estimate of P&L and exercise time after purchasing the put option
+•	Used Monte Carlo simulation to simulate 10,000 sample paths of the asset price and obtained a kernel density estimate of P&L and exercise time distribution assuming a long position of the American put option
